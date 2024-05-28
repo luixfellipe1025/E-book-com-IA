@@ -23,8 +23,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie o título de um ebook sobre algoritmos e lógica de programação, o nicho é sobre programação e o subnicho lógica, o título deve ser épico e curto e deve ser voltado a um público que consume tecnologia. Mê apresente 5 títulos                                                          |
-| conteúdo | Faça um texto para ebook , com foco em Algoritmos e Lógica de Programação, listando os sua importância com exemplos claros e concisos. Explique sempre de uma maneira simples. Deixe o texto enxuto, Sempre traga exemplos  em contextos 
-             reais , sempre deixe um título sugestivo por tópico
+| conteúdo | Faça um texto para ebook , com foco em Algoritmos e Lógica de Programação, listando os sua importância com exemplos claros e concisos. Explique sempre de uma maneira simples. Deixe o texto enxuto, Sempre traga exemplos  em contextos reais , sempre deixe um título sugestivo por tópico
 
 Midjourney：
 
