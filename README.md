@@ -18,6 +18,12 @@ seguem abaixo.
 
 <a href="Ebook - Luiz Felipe P. Rodrigues.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [MidJourney](https://www.midjourney.com/app/)
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+
 ## 🧠 Prompts
 
 
